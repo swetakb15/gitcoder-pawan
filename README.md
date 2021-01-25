@@ -1,8 +1,5 @@
 ### Hi there, I'm Pawan Kumar 👋
 
-<!--
-**gitcoder-pawan/gitcoder-pawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Responsive Website
@@ -13,3 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love to play Cricket.
 -->
+## 💻 Some stats
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gitcoder-pawan&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gitcoder-pawan&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
