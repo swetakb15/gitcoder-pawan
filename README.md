@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love to play Cricket.
--->
 ## 💻 Some stats
 
 <details open>
